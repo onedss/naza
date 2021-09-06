@@ -1,5 +1,5 @@
 // Copyright 2020, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -12,11 +12,11 @@ import (
 	"net"
 	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
+	"github.com/onedss/naza/pkg/assert"
 
-	"github.com/q191201771/naza/pkg/nazalog"
+	"github.com/onedss/naza/pkg/nazalog"
 
-	"github.com/q191201771/naza/pkg/nazanet"
+	"github.com/onedss/naza/pkg/nazanet"
 )
 
 func TestAvailUdpConnPool_Acquire(t *testing.T) {

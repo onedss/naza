@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -9,7 +9,7 @@
 // package assert 提供了单元测试时的断言功能，减少一些模板代码
 package assert
 
-import "github.com/q191201771/naza/pkg/nazareflect"
+import "github.com/onedss/naza/pkg/nazareflect"
 
 // 单元测试中的 *testing.T 和 *testing.B 都满足该接口
 type TestingT interface {

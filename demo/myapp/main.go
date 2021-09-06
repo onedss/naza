@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -13,12 +13,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/q191201771/naza/pkg/bininfo"
+	"github.com/onedss/naza/pkg/bininfo"
 )
 
 func main() {
 	v := flag.Bool("v", false, "show bin info")
 	flag.Parse()
+	fmt.Println("输入参数-v: ", *v)
 	if *v {
 		_, _ = fmt.Fprint(os.Stderr, bininfo.StringifyMultiLine())
 		os.Exit(1)

@@ -1,5 +1,5 @@
 // Copyright 2020, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -11,9 +11,9 @@ package lru_test
 import (
 	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
+	"github.com/onedss/naza/pkg/assert"
 
-	"github.com/q191201771/naza/pkg/lru"
+	"github.com/onedss/naza/pkg/lru"
 )
 
 func TestLru(t *testing.T) {

@@ -1,3 +1,3 @@
-module github.com/q191201771/naza
+module github.com/onedss/naza
 
 go 1.13

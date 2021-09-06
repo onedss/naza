@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -11,9 +11,9 @@ package nazalog
 import (
 	"fmt"
 
-	"github.com/q191201771/naza/pkg/nazareflect"
+	"github.com/onedss/naza/pkg/nazareflect"
 
-	"github.com/q191201771/naza/pkg/fake"
+	"github.com/onedss/naza/pkg/fake"
 )
 
 var global Logger

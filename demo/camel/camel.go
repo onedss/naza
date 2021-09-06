@@ -1,5 +1,5 @@
 // Copyright 2021, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -15,8 +15,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/q191201771/naza/pkg/filebatch"
-	"github.com/q191201771/naza/pkg/nazalog"
+	"github.com/onedss/naza/pkg/filebatch"
+	"github.com/onedss/naza/pkg/nazalog"
 )
 
 // 帮助找出源码中多个大写字母连接在一起的地方

@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -13,7 +13,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
+	"github.com/onedss/naza/pkg/assert"
 )
 
 func TestBeUint16(t *testing.T) {

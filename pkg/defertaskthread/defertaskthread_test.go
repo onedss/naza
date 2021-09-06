@@ -1,5 +1,5 @@
 // Copyright 2020, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/q191201771/naza/pkg/nazalog"
+	"github.com/onedss/naza/pkg/nazalog"
 
-	"github.com/q191201771/naza/pkg/defertaskthread"
+	"github.com/onedss/naza/pkg/defertaskthread"
 )
 
 func TestDeferTaskThread(t *testing.T) {

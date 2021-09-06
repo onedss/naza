@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -8,7 +8,7 @@
 
 package slicebytepool
 
-import "github.com/q191201771/naza/pkg/nazaatomic"
+import "github.com/onedss/naza/pkg/nazaatomic"
 
 var (
 	minSize = 1024

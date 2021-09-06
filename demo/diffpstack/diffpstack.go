@@ -1,5 +1,5 @@
 // Copyright 2021, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/q191201771/naza/pkg/nazalog"
+	"github.com/onedss/naza/pkg/nazalog"
 )
 
 // 分析c++程序pstack的两次结果的差异

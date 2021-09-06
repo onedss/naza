@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -46,7 +46,7 @@ type ModOption func(option *Option)
 // @param dups: 每个实际的 node 转变成多少个环上的节点，必须大于等于1
 // @param modOptions: 可修改内部的哈希函数，比如替换成murmur32的开源实现，可以这样：
 //   import "github.com/spaolacci/murmur3"
-//   import "github.com/q191201771/naza/pkg/consistenthash"
+//   import "github.com/onedss/naza/pkg/consistenthash"
 //
 //   ch := consistenthash.New(1000, func(option *Option) {
 //     option.hfn = func(bytes []byte) uint32 {

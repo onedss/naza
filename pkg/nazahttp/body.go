@@ -1,5 +1,5 @@
 // Copyright 2020, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -13,7 +13,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/q191201771/naza/pkg/nazajson"
+	"github.com/onedss/naza/pkg/nazajson"
 )
 
 // @brief 从http请求中解析body中的json字符串，并反序列化至结构体中

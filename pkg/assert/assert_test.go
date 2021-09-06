@@ -1,5 +1,5 @@
 // Copyright 2019, Chef.  All rights reserved.
-// https://github.com/q191201771/naza
+// https://github.com/onedss/naza
 //
 // Use of this source code is governed by a MIT-style license
 // that can be found in the License file.
@@ -11,10 +11,10 @@ package assert_test
 import (
 	"errors"
 	"fmt"
-	"testing"
 	"os"
+	"testing"
 
-	"github.com/q191201771/naza/pkg/assert"
+	"github.com/onedss/naza/pkg/assert"
 )
 
 // 大部分时候 TestingT interface 的实例为单元测试中的 *testing.T 和 *testing.B

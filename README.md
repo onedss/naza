@@ -2,25 +2,25 @@
 <br>
 Go语言基础库
 <br><br>
-<a title="TravisCI" target="_blank" href="https://www.travis-ci.org/q191201771/naza"><img src="https://www.travis-ci.org/q191201771/naza.svg?branch=master"></a>
-<a title="codecov" target="_blank" href="https://codecov.io/gh/q191201771/naza"><img src="https://codecov.io/gh/q191201771/naza/branch/master/graph/badge.svg?style=flat-square"></a>
-<a title="goreportcard" target="_blank" href="https://goreportcard.com/report/github.com/q191201771/naza"><img src="https://goreportcard.com/badge/github.com/q191201771/naza?style=flat-square"></a>
-<a title="sourcegraph" target="_blank" href="https://sourcegraph.com/github.com/q191201771/naza"><img src="https://sourcegraph.com/github.com/q191201771/naza/-/badge.svg"></a>
+<a title="TravisCI" target="_blank" href="https://www.travis-ci.org/onedss/naza"><img src="https://www.travis-ci.org/onedss/naza.svg?branch=master"></a>
+<a title="codecov" target="_blank" href="https://codecov.io/gh/onedss/naza"><img src="https://codecov.io/gh/onedss/naza/branch/master/graph/badge.svg?style=flat-square"></a>
+<a title="goreportcard" target="_blank" href="https://goreportcard.com/report/github.com/onedss/naza"><img src="https://goreportcard.com/badge/github.com/onedss/naza?style=flat-square"></a>
+<a title="sourcegraph" target="_blank" href="https://sourcegraph.com/github.com/onedss/naza"><img src="https://sourcegraph.com/github.com/onedss/naza/-/badge.svg"></a>
 <br>
-<a title="codeline" target="_blank" href="https://github.com/q191201771/naza"><img src="https://sloc.xyz/github/q191201771/naza/?category=code"></a>
-<a title="license" target="_blank" href="https://github.com/q191201771/naza/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
-<a title="lastcommit" target="_blank" href="https://github.com/q191201771/naza/commits/master"><img src="https://img.shields.io/github/commit-activity/m/q191201771/naza.svg?style=flat-square"></a>
-<a title="commitactivity" target="_blank" href="https://github.com/q191201771/naza/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/q191201771/naza.svg?style=flat-square"></a>
+<a title="codeline" target="_blank" href="https://github.com/onedss/naza"><img src="https://sloc.xyz/github/onedss/naza/?category=code"></a>
+<a title="license" target="_blank" href="https://github.com/onedss/naza/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
+<a title="lastcommit" target="_blank" href="https://github.com/onedss/naza/commits/master"><img src="https://img.shields.io/github/commit-activity/m/onedss/naza.svg?style=flat-square"></a>
+<a title="commitactivity" target="_blank" href="https://github.com/onedss/naza/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/onedss/naza.svg?style=flat-square"></a>
 <br>
-<a title="pr" target="_blank" href="https://github.com/q191201771/naza/pulls"><img src="https://img.shields.io/github/issues-pr-closed/q191201771/naza.svg?style=flat-square&color=FF9966"></a>
-<a title="hits" target="_blank" href="https://github.com/q191201771/naza"><img src="https://hits.b3log.org/q191201771/naza.svg?style=flat-square"></a>
-<a title="language" target="_blank" href="https://github.com/q191201771/naza"><img src="https://img.shields.io/github/languages/count/q191201771/naza.svg?style=flat-square"></a>
-<a title="toplanguage" target="_blank" href="https://github.com/q191201771/naza"><img src="https://img.shields.io/github/languages/top/q191201771/naza.svg?style=flat-square"></a>
-<a title="godoc" target="_blank" href="https://godoc.org/github.com/q191201771/naza"><img src="http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square"></a>
+<a title="pr" target="_blank" href="https://github.com/onedss/naza/pulls"><img src="https://img.shields.io/github/issues-pr-closed/onedss/naza.svg?style=flat-square&color=FF9966"></a>
+<a title="hits" target="_blank" href="https://github.com/onedss/naza"><img src="https://hits.b3log.org/onedss/naza.svg?style=flat-square"></a>
+<a title="language" target="_blank" href="https://github.com/onedss/naza"><img src="https://img.shields.io/github/languages/count/onedss/naza.svg?style=flat-square"></a>
+<a title="toplanguage" target="_blank" href="https://github.com/onedss/naza"><img src="https://img.shields.io/github/languages/top/onedss/naza.svg?style=flat-square"></a>
+<a title="godoc" target="_blank" href="https://godoc.org/github.com/onedss/naza"><img src="http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square"></a>
 <br><br>
-<a title="watcher" target="_blank" href="https://github.com/q191201771/naza/watchers"><img src="https://img.shields.io/github/watchers/q191201771/naza.svg?label=Watchers&style=social"></a>&nbsp;&nbsp;
-<a title="star" target="_blank" href="https://github.com/q191201771/naza/stargazers"><img src="https://img.shields.io/github/stars/q191201771/naza.svg?label=Stars&style=social"></a>&nbsp;&nbsp;
-<a title="fork" target="_blank" href="https://github.com/q191201771/naza/network/members"><img src="https://img.shields.io/github/forks/q191201771/naza.svg?label=Forks&style=social"></a>&nbsp;&nbsp;
+<a title="watcher" target="_blank" href="https://github.com/onedss/naza/watchers"><img src="https://img.shields.io/github/watchers/onedss/naza.svg?label=Watchers&style=social"></a>&nbsp;&nbsp;
+<a title="star" target="_blank" href="https://github.com/onedss/naza/stargazers"><img src="https://img.shields.io/github/stars/onedss/naza.svg?label=Stars&style=social"></a>&nbsp;&nbsp;
+<a title="fork" target="_blank" href="https://github.com/onedss/naza/network/members"><img src="https://img.shields.io/github/forks/onedss/naza.svg?label=Forks&style=social"></a>&nbsp;&nbsp;
 </p>
 
 ---
